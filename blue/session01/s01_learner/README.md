@@ -1,8 +1,8 @@
 # mtl 2.0
 ## *Modeling to Learn* by TeamPSD - Release 2.0. 
 
-[<img src = "https://github.com/test_change/teampsd/blob/teampsd_style/mtl_logo/mtl_testdontguess_sm.png"
-     height = "175" width = "650">](https://github.com/test_change/mtl/tree/master/blue/session01/s01_learner)  
+[<img src = "https://github.com/lzim/teampsd/blob/teampsd_style/mtl_logo/mtl_testdontguess_sm.png"
+     height = "175" width = "650">](https://github.com/lzim/mtl/tree/master/blue/session01/s01_learner)  
 
 #### session 01. *Modeling to Learn* how to align our **team vision**. 
 
