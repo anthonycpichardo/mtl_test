@@ -9,11 +9,11 @@
 - **Use the map below to decide which guides you should use.**
 - Just curious about _Modeling to Learn_? Check out [mtl.how/demo](https://mtl.how/demo).
 
-[<img src = "https://github.com/lzim/teampsd/blob/master/resources/maps/mtl.how_map.png">](https://mtl.how)
+[<img src = "https://github.com/markdownrefactor/teampsd/blob/master/resources/maps/mtl.how_map.png">](https://mtl.how)
 
  _MTL Blue_ click here: | _MTL Red_ click here:
 -- | --
-[<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_blue.png" height = "175" width = "300">](https://github.com/lzim/mtl/tree/master/blue) | [<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_red.png" height = "175" width = "300">](https://github.com/lzim/mtl/tree/master/red) |
+[<img src = "https://github.com/markdownrefactor/teampsd/blob/master/resources/logos/mtl_how_blue.png" height = "175" width = "300">](https://github.com/markdownrefactor/mtl/tree/master/blue) | [<img src = "https://github.com/markdownrefactor/teampsd/blob/master/resources/logos/mtl_how_red.png" height = "175" width = "300">](https://github.com/markdownrefactor/mtl/tree/master/red) |
 
 ## _Modeling to Learn_ Video
 #### Use [_MTL Blue_](https://mtl.how/blue) guides in the folder at the top of this page.

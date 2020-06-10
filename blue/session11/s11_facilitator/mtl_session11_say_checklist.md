@@ -12,24 +12,24 @@ output:
   powerpoint_presentation: default
 ---
 
-<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_live_sq_sm.png"
+<img src = "https://github.com/markdownrefactor/teampsd/blob/master/resources/logos/mtl_live_sq_sm.png"
      height = "175" width = "290">  
 
-# [MTL Live Session 11](https://github.com/lzim/teampsd/blob/master/mtl_facilitate_workgroup/mtl_live_guide/mtl_live_session11_see.Rmd "MTL Live Session 11")
+# [MTL Live Session 11](https://github.com/markdownrefactor/teampsd/blob/master/mtl_facilitate_workgroup/mtl_live_guide/mtl_live_session11_see.Rmd "MTL Live Session 11")
 
 # Today we're modeling to learn how to make _future_ team decisions.
 Hello! I'm __________ and I'm __________ [Co-facilitators introduce themselves]. Today we're modeling to learn how to make future team decisions.
 
 
 ## Navigate to the SEE guide to show Done and Do
-<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> _____________ **Time 00:00-00:05** 
-- [ ] <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/done.png" height = "45" width = "45"> **Done** We thought about possible decisions or changes the team could make in clinical care based on our comparison of the bc, exp 1, exp 2 and exp 3 in mtl.how/sim.
+<img src = "https://github.com/markdownrefactor/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> _____________ **Time 00:00-00:05** 
+- [ ] <img src = "https://github.com/markdownrefactor/teampsd/blob/master/resources/icons/done.png" height = "45" width = "45"> **Done** We thought about possible decisions or changes the team could make in clinical care based on our comparison of the bc, exp 1, exp 2 and exp 3 in mtl.how/sim.
 
-- [ ] <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/do.png" height = "45" width = "45"> **Do** We will discuss the team's learning using C.F.B.T. systems thinking skills and prioritize ways to implement new practice decisions in our clinical care.| 
+- [ ] <img src = "https://github.com/markdownrefactor/teampsd/blob/master/resources/icons/do.png" height = "45" width = "45"> **Do** We will discuss the team's learning using C.F.B.T. systems thinking skills and prioritize ways to implement new practice decisions in our clinical care.| 
 
 ## Emphasize team priority with the learning objectives on the screen
-<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> _____________ **Time 00:05-00:10** 
-- [ ] <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/learning_objectives.png" height = "45" width = "45"> 
+<img src = "https://github.com/markdownrefactor/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> _____________ **Time 00:05-00:10** 
+- [ ] <img src = "https://github.com/markdownrefactor/teampsd/blob/master/resources/icons/learning_objectives.png" height = "45" width = "45"> 
 **Learning Objectives for Session 11**
 
 1.	Describe what your team has prioritized as decisions to implement in your clinic. 
@@ -46,7 +46,7 @@ Systems Thinking | Definition
 **System Behavior** _________________ [team example(s)]| **Movie   not snapshot.**    Trends over time.    Systems _cause_ their own behavior through feedback.
 **Time** _________________ [team example(s)]| **Short   and   long term.**      Better understanding of change over time   (e.g., worse before better, better before worse, better before a lot better, worse before a lot worse).
 
- <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> _____________ **Time 00:10-00:20** 
+ <img src = "https://github.com/markdownrefactor/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> _____________ **Time 00:10-00:20** 
 
 - [ ] 1. We've made lots of **team decisions,** including selecting ______________ as team lead.
 
@@ -67,7 +67,7 @@ Systems Thinking | Definition
 - ___________________ [exp 3]
    
 ## Discuss **new individual and team practice decisions** using **C.F.B.T. systems thinking** rationale for **why** a practice decision would lead to desired outcomes over time.
-<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> _____________ **Time 00:20-00:50**  
+<img src = "https://github.com/markdownrefactor/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> _____________ **Time 00:20-00:50**  
    + What insights we will keep in mind as we make future team decisions?
    + What new decisions, approaches, or targets do we want to adopt in our team?  
    + Let's think about the key insights we've gotten about decisions that are within our control.
@@ -76,6 +76,6 @@ Systems Thinking | Definition
    + What data will we watch to see how we're doing?  
 
 ## Have Team Lead pull up the session 09 SEE guide Done/Do review.
-<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> _____________ **Time 00:50-00:55**  
+<img src = "https://github.com/markdownrefactor/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> _____________ **Time 00:50-00:55**  
 - [ ] Done: We discussed the team's learning and new individual and team practice decisions that apply **C.F.B.T. systems thinking skills** in prioritized ways to implement it in our clinical care.
 - [ ] Reflect on our team's vision for MTL and our **MTL participatory learning experience** to prepare next steps and wrap-up MTL.
