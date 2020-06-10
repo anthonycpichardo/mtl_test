@@ -12,7 +12,7 @@ output:
   slidy_presentation: default
   powerpoint_presentation: default
 ---
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/title_slides/mtl_s05_teamworld_title.png"
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s05_teamworld_title.png"
      height = "175" width = "420">](#DontLink)  
 **Note**: If you are a self-directed learner, then some of the details in the guides may not apply to you. These guides were developed for facilitated *Modeling to Learn* Live team meetings.
 
@@ -23,12 +23,12 @@ output:
 
 ## Done and Do (15 minutes)
 <!-- Do/Done Tables -->
-| [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#DontLink)   **Done** | [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#DontLink)   **Do** |
+| [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#DontLink)   **Done** | [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#DontLink)   **Do** |
 | --- | --- | 
-| [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) We checked to make sure we could log in to the simulation user interface (sim UI) at mtl.how/sim. [![](https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_2.0/sim_ui_1.gif)](#DontLink) **_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/anthony/mtl/blob/master/release_1.7/mtl_session05_see.md)**  | [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) We will upload our team data table to the sim UI and review our data in the Experiments section. [![](https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_2.0/sim_ui_sections.gif)](#DontLink) **_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/anthony/mtl/blob/master/release_1.7/mtl_session05_see.md)**| 
+| [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) We checked to make sure we could log in to the simulation user interface (sim UI) at mtl.how/sim. [![](https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_2.0/sim_ui_1.gif)](#DontLink) **_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/lzim/mtl/blob/master/release_1.7/mtl_session05_see.md)**  | [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) We will upload our team data table to the sim UI and review our data in the Experiments section. [![](https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_2.0/sim_ui_sections.gif)](#DontLink) **_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/lzim/mtl/blob/master/release_1.7/mtl_session05_see.md)**| 
 
 <!-- Learning Objectives Icon --> 
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/learning_objectives.png" height = "90" width = "90" style ="display: inline-block"/>](#DontLink)
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/learning_objectives.png" height = "90" width = "90" style ="display: inline-block"/>](#DontLink)
 
 ## Learning Objectives
 
@@ -50,9 +50,9 @@ output:
 3. The team data file for simulation is in our team folder, in the team_data_sim folder. 
     + Copy the name of the team data file.
 
-[![](https://github.com/anthony/teampsd/blob/master/resources/gifs/mtl_2.0/data_ui_login.gif)](#DontLink)
+[![](https://github.com/lzim/teampsd/blob/master/resources/gifs/mtl_2.0/data_ui_login.gif)](#DontLink)
 
-**_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/anthony/mtl/blob/master/release_1.7/mtl_session05_see.md)**
+**_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/lzim/mtl/blob/master/release_1.7/mtl_session05_see.md)**
 
 ## Log in to the sim UI in Chrome
 
@@ -68,7 +68,7 @@ output:
 
 [![](https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_2.0/sim_ui_1.gif)](#DontLink) 
 
-**_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/anthony/mtl/blob/master/release_1.7/mtl_session05_see.md)**
+**_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/lzim/mtl/blob/master/release_1.7/mtl_session05_see.md)**
 
 #### New for _MTL_ 2.0
 - You can use several browsers outside of Chrome that are not Explorer. As the warning states on the login page of the sim UI "The _Modeling to Learn_ simulation user interface does not work on Explorer. Please use Edge, Firefox, Chrome or Safari via desktop or mobile."
@@ -77,14 +77,14 @@ output:
 
 - If there is a critical issue that everyone needs to be alerted to, there will be a red "Alert" pop-up upon login, alerting everyone to the issue. These issues are our top priority to resolve. Once you dismiss this alert once, it will not reappear. 
 
-For *MTL* 1.7 click [here](https://github.com/anthony/mtl/blob/master/release_1.7/mtl_session05_see.md).
+For *MTL* 1.7 click [here](https://github.com/lzim/mtl/blob/master/release_1.7/mtl_session05_see.md).
 
 
 5. Orient yourself to the landing page (Team name, navigation icons, player name, welcome text, sections with blue headers).
 
 [![](https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_2.0/sim_ui_home.gif)](#DontLink)
 
-**_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/anthony/mtl/blob/master/release_1.7/mtl_session05_see.md)**
+**_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/lzim/mtl/blob/master/release_1.7/mtl_session05_see.md)**
 
    + Open the Team Data Dropdown Maintenance section and click Add. 
 
@@ -93,7 +93,7 @@ For *MTL* 1.7 click [here](https://github.com/anthony/mtl/blob/master/release_1.
 
 [![](https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_2.0/sim_ui_team_data_menu_maint.gif)](#DontLink) 
 
-**_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/anthony/mtl/blob/master/release_1.7/mtl_session05_see.md)**
+**_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/lzim/mtl/blob/master/release_1.7/mtl_session05_see.md)**
    
 #### New for _MTL_ 2.0
 
@@ -144,7 +144,7 @@ For *MTL* 1.7 click [here](https://github.com/anthony/mtl/blob/master/release_1.
     - Upload your screenshot file
 [![](https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_2.0/upload_files_community.gif)](#DontLink) 
 
-For *MTL* 1.7 click [here](https://github.com/anthony/mtl/blob/master/release_1.7/mtl_session05_see.md).
+For *MTL* 1.7 click [here](https://github.com/lzim/mtl/blob/master/release_1.7/mtl_session05_see.md).
 
 
 6. Start a New Session
@@ -163,7 +163,7 @@ For *MTL* 1.7 click [here](https://github.com/anthony/mtl/blob/master/release_1.
 
 [![](https://raw.githubusercontent.com/lzim/teampsd/master/resources/gifs/mtl_2.0/learning_mode.gif)](#DontLink)
 
-For *MTL* 1.7 click [here](https://github.com/anthony/mtl/blob/master/release_1.7/mtl_session05_see.md).
+For *MTL* 1.7 click [here](https://github.com/lzim/mtl/blob/master/release_1.7/mtl_session05_see.md).
 
 7. Orient yourself to the Main Page of the sim UI (same information and buttons at top; 4 sections with blue header - one showing the module and team data selected in its header; the others headed Outputs and Text, Experiments, and Text).
 
@@ -172,11 +172,11 @@ For *MTL* 1.7 click [here](https://github.com/anthony/mtl/blob/master/release_1.
 - To get the "Text" pop-up from the "Outputs and Text" section, click on the "T" icon with the arrow. Click once more on the "Expand" icon in the top right of the "Text" pop-up to get to the expanded view of the "Outputs and Text" section that show the Q/H/F/D text and 6 Output charts in one view.
   - Click on the "Minimize" icon in the top right of the expanded "Outputs and Text" view to return to the "Text" pop-up.
 
-For *MTL* 1.7 click [here](https://github.com/anthony/mtl/blob/master/release_1.7/mtl_session05_see.md).
+For *MTL* 1.7 click [here](https://github.com/lzim/mtl/blob/master/release_1.7/mtl_session05_see.md).
 
-[![](https://github.com/anthony/teampsd/blob/master/resources/gifs/mtl_2.0/sim_ui_sections.gif)](#DontLink) 
+[![](https://github.com/lzim/teampsd/blob/master/resources/gifs/mtl_2.0/sim_ui_sections.gif)](#DontLink) 
 
-**_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/anthony/mtl/blob/master/release_1.7/mtl_session05_see.md)**
+**_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/lzim/mtl/blob/master/release_1.7/mtl_session05_see.md)**
 
 8. Expand the Experiments section and read the "i" information for the Team Data Table.
    + Open the section by clicking on the white down arrow in the right corner of the blue bar. 
@@ -203,6 +203,6 @@ For *MTL* 1.7 click [here](https://github.com/anthony/mtl/blob/master/release_1.
 
 ## Done and Do (15 minutes)
 <!-- Do/Done Tables -->
-| [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#DontLink) **Done** | [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#DontLink) **Do** |
+| [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#DontLink) **Done** | [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#DontLink) **Do** |
 | --- | --- | 
-| [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_data_sm.png" height = "75" width = "110">](http://mtl.how/data) [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) We logged in and uploaded our team data table to the sim UI, and reviewed our team data in the Experiments section. [![](https://github.com/anthony/teampsd/blob/master/resources/gifs/mtl_2.0/session2_data_ui_2.gif)](#DontLink) **_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/anthony/mtl/blob/master/release_1.7/mtl_session05_see.md)**| [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) Check the "i" information available in the sim UI Model Diagram and Experiments section. [![](https://github.com/anthony/teampsd/blob/master/resources/gifs/mtl_2.0/sim_ui_pop_ups.gif)](#DontLink) **_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/anthony/mtl/blob/master/release_1.7/mtl_session05_see.md)**| 
+| [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_data_sm.png" height = "75" width = "110">](http://mtl.how/data) [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) We logged in and uploaded our team data table to the sim UI, and reviewed our team data in the Experiments section. [![](https://github.com/lzim/teampsd/blob/master/resources/gifs/mtl_2.0/session2_data_ui_2.gif)](#DontLink) **_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/lzim/mtl/blob/master/release_1.7/mtl_session05_see.md)**| [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) Check the "i" information available in the sim UI Model Diagram and Experiments section. [![](https://github.com/lzim/teampsd/blob/master/resources/gifs/mtl_2.0/sim_ui_pop_ups.gif)](#DontLink) **_MTL_ 2.0. For _MTL_ 1.7, click [here](https://github.com/lzim/mtl/blob/master/release_1.7/mtl_session05_see.md)**| 

@@ -13,7 +13,7 @@ output:
   powerpoint_presentation: default
 ---
 
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/title_slides/mtl_s05_teamworld_title.png"
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s05_teamworld_title.png"
      height = "175" width = "420">](#DontLink)  
 
 # Session 05
@@ -21,14 +21,14 @@ output:
 
 ## Done and Do
 <!-- Do/Done Tables -->
-| [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#DontClick)   **Done** | [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#DontClick)   **Do** |
+| [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#DontClick)   **Done** | [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#DontClick)   **Do** |
 | --- | --- | 
 | [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) We checked to make sure we could log in to the sim UI at mtl.how/sim. | [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) We will upload our team data to the sim UI and review our data in the Experiments section. | 
 
-## Learning Objectives - After this session you will be able to: [ <img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15"> ___ ]
+## Learning Objectives - After this session you will be able to: [ <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15"> ___ ]
 
 <!-- Learning Objectives Icon --> 
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/learning_objectives.png" height = "90" width = "90" style ="display: inline-block"/> ](#DontClick)  
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/learning_objectives.png" height = "90" width = "90" style ="display: inline-block"/> ](#DontClick)  
 
 1. Describe the team data in the Experiments section. 
 
@@ -37,7 +37,7 @@ output:
 3. Apply clinical expertise to consider the decisions the team makes that affect these variables.
 
 
-## Participatory Learning from Simulation [ [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)  _____ ]
+## Participatory Learning from Simulation [ [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)  _____ ]
 
 [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/illustrations/data_ui_sim_ui.png">](#DontClick)  
 
@@ -51,20 +51,20 @@ output:
 
  + Simulation helps us to place a better initial bet about what is likely to pay off for our local Veteran community in terms of getting patients timely access to our highest quality care.  
 
-## In-session Exercise [ [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)   __ ]
+## In-session Exercise [ [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)   __ ]
 
 **The Team Lead, or whoever is willing to drive today: open an Internet Explorer browser and a Chrome browser, then share both applications in Adobe Connect.**
 
 
-### 1. In session 3, we used our team data UI and clicked "Create Team Data Table" to produce our team data for simulation.  [ [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)__ ] 
+### 1. In session 3, we used our team data UI and clicked "Create Team Data Table" to produce our team data for simulation.  [ [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)__ ] 
 
 ### 2. Let's now go back to mtl.how/data in an Internet Explorer window to check the name of our team_data_table file. 
 + We want to grab the filename from there so we can upload it to the sim UI. Open an Explorer browser window and go to mtl.how/data.  
 
-### 3. The team data file for simulation is in our team folder, in the team_data_table folder. [ [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)__ ]   
+### 3. The team data file for simulation is in our team folder, in the team_data_table folder. [ [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)__ ]   
 + Navigate to the team_data_table folder and click the "dot-dot-dot" so you can copy the filename of your team_data_table.      
 
-### 4. Log in to the sim UI. [ [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)__ ]  
+### 4. Log in to the sim UI. [ [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)__ ]  
 + Open a new browser window in Google Chrome and go to mtl.how/sim. **The *Modeling to Learn* simulation user interface does not work on Explorer. Please use Edge, Firefox, Chrome or Safari via desktop or mobile.**
 
 + Enter your login credentials - username is your VA email address and password should have been provided to your team in the Session 5 Pre email. Use all lowercase. If you forget your password, click on the red "Reset Password" at the bottom of the login section. An email will be sent to you to create a new password.
@@ -75,7 +75,7 @@ output:
 
 + If there is a critical issue that everyone needs to be alerted to, there will be a red "Alert" pop-up upon login, alerting everyone to the issue. These issues are our top priority to resolve due to their level of criticality. Once you dismiss this alert once, it will not reappear. Note, this alert will appear in both your team and individual worlds, so you will need to dismiss it twice.
 
-### 5. Orient yourself to the home page (Team name, navigation icons, player name, welcome text, sections with blue headers).   [ [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)___ ]  
+### 5. Orient yourself to the home page (Team name, navigation icons, player name, welcome text, sections with blue headers).   [ [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)___ ]  
  
 + At the top left is the *MTL* logo. That’s on each page, and it works as a Home button (just like the button next to it).  
   
@@ -120,7 +120,7 @@ output:
 + We'll be using the other two sections in a minute, but for now let's expand the middle section and take a look. This is where you can manage the experiments you've run - you can delete, rename, or export them from here. Right now it's empty, but it won't be for long!   
 
 
-### 6. Start a New Session [ [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)__ ]  
+### 6. Start a New Session [ [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "15" width = "15">](#DontClick)__ ]  
 
 + Start a New Session and review the sim UI Main Page.   
    
@@ -188,7 +188,7 @@ output:
 
 ## Done and Do (15 minutes)
 <!-- Do/Done Tables -->
-| [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#DontClick) **Done** | [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#DontClick)   **Do** |
+| [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#DontClick) **Done** | [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#DontClick)   **Do** |
 | --- | --- | 
 | [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_data_sm.png" height = "75" width = "110">](http://mtl.how/data) [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) We logged in and uploaded our team data table to the sim UI, and reviewed our team data in the Experiments section. | [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) Check the "i" information available in the sim UI Model Diagram and Experiments section. | 
 

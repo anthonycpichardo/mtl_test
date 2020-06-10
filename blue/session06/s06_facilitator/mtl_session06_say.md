@@ -13,7 +13,7 @@ output:
   powerpoint_presentation: default
 ---
 
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/title_slides/mtl_s06_systems_story_title.png"
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s06_systems_story_title.png"
      height = "175" width = "420">](#DontLink)   
 
 # MTL Live Session 06
@@ -23,12 +23,12 @@ Hello! I'm __________ and I'm __________ [Co-facilitators introduce themselves].
 
 # Done and Do (15 minutes)
 ## Navigate to the SEE guide to show Done and Do
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)_____________ **Time 00:00-00:10** 
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)_____________ **Time 00:00-00:10** 
 
 ### As you see in the Done and Do table of your Learner See Guide:
 
 <!-- Do/Done Tables -->
-| [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#DontClick) **Done** | [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#DontClick) **Do** |
+| [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#DontClick) **Done** | [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#DontClick) **Do** |
 | --- | --- | 
 |[<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim)  We logged in to mtl.how/sim and reviewed the "i" information in the Model Diagram and Experiments section.| [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim)  We will tell a systems story about the team's top priority of __________ using the Model Diagram in the sim UI. | 
 
@@ -37,7 +37,7 @@ Hello! I'm __________ and I'm __________ [Co-facilitators introduce themselves].
 ### After this session you’ll be able to: 
 
 <!-- Learning Objectives Icon --> 
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/learning_objectives.png" height = "90" width = "90" style ="display: inline-block"/>](#DontClick)  
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/learning_objectives.png" height = "90" width = "90" style ="display: inline-block"/>](#DontClick)  
 
 ## Learning Objectives
 
@@ -50,13 +50,13 @@ Hello! I'm __________ and I'm __________ [Co-facilitators introduce themselves].
 
 # In-session Exercise (30 minutes)
 ## Start in-session exercise and provide team-specific rationale for building capacity for participatory learning from simulation
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   _____________ **Time 00:10-00:15 - Team-specific rationale** __________________
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   _____________ **Time 00:10-00:15 - Team-specific rationale** __________________
 
 ### The purpose for this activity is to familiarize you with the model diagram and how causal diagrams can be useful to understanding why problems arise and persist. By the end, you should be able to easily navigate it and find detailed information about each variable.  This exercise has two parts, the first to practice navigating to your Team simulation world, and the second to use the diagram  to help you tell your Systems Story.  A Systems Story is a description of the causal connections that create the problem your team prioritized, _________________ .  
 
 
 ## Team lead shares Chrome and logs in to the Team world at **mtl.how/sim**
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   _____________ **Time 00:15-00:20 - Team's Session 05 Question** __________________
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   _____________ **Time 00:15-00:20 - Team's Session 05 Question** __________________
 
 ### Let's explore the MTL Home Page.
 + To start this session, you should log in to your team world at **mtl.how/sim**, where you enter your username (email address) and password. After you click **LOGIN**, a pop-up box will appear with the text "Please select a World" on the blue bar. Select the world that ends with **"team" from the drop-down menu**.
@@ -75,7 +75,7 @@ Navigate to Text section to pull up the Question from last time.
 
 # In-Session Exercise - Part 1
 ## Introducing the Simulation User Interface Main Section with the Model Diagram in relation to team's priority
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   _____________ **Time 00:20-00:30 - Team Priority**__________________ 
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   _____________ **Time 00:20-00:30 - Team Priority**__________________ 
 
 ### Now we're ready to explore the simulation user interface main section with the model diagram in relation to your team.  
 
@@ -94,7 +94,7 @@ In our convention, Red means read in from team data.
 
 # In-Session Exercise - Part 1
 ## Introducing stocks/flows and polarities among key variables related to the team's priority
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   _____________ **Time 00:30-00:40  - Team Priority**__________________
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   _____________ **Time 00:30-00:40  - Team Priority**__________________
 
 + **Starting Point: Main model section with no additional complexities revealed.**
 
@@ -117,7 +117,7 @@ In our convention, Red means read in from team data.
          + If there is a minus sign, the two variables move in opposite directions (1 thumb up, 1 thumb down; and reverse).  
 
 ## Cover complexity reveal (causal loop) and base case question and dynamic hypothesis related to the team's priority 
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   _____________ **Time 00:40-00:50 - Team Priority**__________________
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   _____________ **Time 00:40-00:50 - Team Priority**__________________
 
 __Walk-throughs of each loop in each module are included in a table below.__
 
@@ -128,7 +128,7 @@ Click on the Save (not Save & Reset) button in the upper right corner of the Tex
 
  + The last thing to do is log out of the SIM UI! 
 
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   ***00:50-00:55*** 
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   ***00:50-00:55*** 
 
 ### That’s it for _Modeling to Learn_ how to tell a systems story. Next is our Done/Do review.
 
@@ -136,10 +136,10 @@ Today we told a systems story about our team's top priority and entered a Questi
 
 # Done and Do (15 minutes)
 ## Have Team Lead pull up the session 06 SEE guide Done/Do review.
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   _____________ **Time 00:50-00:55** 
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick)   _____________ **Time 00:50-00:55** 
 
 <!-- Do/Done Tables -->
-| [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#DontClick)   **Done** | [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#DontClick)   **Do** |
+| [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#DontClick)   **Done** | [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#DontClick)   **Do** |
 | --- | --- | 
 | [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) We told a systems story about our team's top priority and entered a question and hypothesis in the Text section. | [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) Log in to our individual world at mtl.how/sim. and refine the question and hypothesis we entered during the session about the Base Case run in the Text section.  |
 

@@ -13,7 +13,7 @@ output:
   powerpoint_presentation: default
 ---
 
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/title_slides/mtl_s10_systems_thinking_title.png"
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s10_systems_thinking_title.png"
      height = "175" width = "420">](#DontLink)  
 # MTL Live Session 10
 
@@ -24,14 +24,14 @@ Hello! I'm __________ and I'm __________ [Co-facilitators introduce themselves].
 
 ## Done and Do (15 minutes)
 <!-- Do/Done Tables -->
-| [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#.) **Done** | [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#.) **Do** |
+| [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#.) **Done** | [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#.) **Do** |
 | --- | --- | 
 | [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) We ran a third experiment in our individual world.  | [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) We will run exp 3 and discuss the bc, exp 1, exp 2 and exp 3 using Complex, Feedback, Behavior, Time (CFBT) systems thinking skills. | 
 
 ### After this session, you'll be able to:
 
 <!-- Learning Objectives Icon --> 
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/learning_objectives.png" height = "90" width = "90" style ="display: inline-block"/>](#.)
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/learning_objectives.png" height = "90" width = "90" style ="display: inline-block"/>](#.)
 
 ## Learning Objectives
 
@@ -104,7 +104,7 @@ Time | **Short and long term.**  Better understanding of change over time (e.g.,
 
 ## Done and Do (15 minutes)
 <!-- Do/Done Tables -->
-| [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#.) **Done** | [<img src = "https://github.com/anthony/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#.) **Do** |
+| [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#.) **Done** | [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#.) **Do** |
 | --- | --- | 
 | [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) We ran exp 3 and discussed the results using systems thinking skills. | [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/logos/mtl_how_sim.png" height = "75" width = "110">](http://mtl.how/sim) Review and compare the bc, exp 1, exp 2 and exp 3 and think about possible new decisions team could make in their daily clinical care. |
 

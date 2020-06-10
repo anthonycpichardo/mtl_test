@@ -1,7 +1,7 @@
 # _Modeling to Learn_ Blue 
 
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/logos/mtl_how_blue.png"
-     height = "175" width = "300">](https://github.com/anthony/mtl) 
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_blue.png"
+     height = "175" width = "300">](https://github.com/lzim/mtl) 
 
 ## *Modeling to Learn* Links
 

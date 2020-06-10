@@ -1,7 +1,7 @@
 # _Modeling to Learn_ Red
 
-[<img src = "https://github.com/anthony/teampsd/blob/master/resources/logos/mtl_how_red.png"
-     height = "175" width = "300">](https://github.com/anthony/mtl) 
+[<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_how_red.png"
+     height = "175" width = "300">](https://github.com/lzim/mtl) 
 
 ## *Modeling to Learn* Links
 1. [mtl.how/live](https://www.mtl.how/live) - _Modeling to Learn_ Live Sessions - Adobe Connect Room
